@@ -49,8 +49,8 @@ with st.sidebar:
             "Note: it may take a while to load the results, especially with large number of tweets"
         )
 
-    st.markdown("[Github link](https://github.com/tmtsmrsl/TwitterSentimentAnalyzer)")
-    st.markdown("Created by Timotius Marselo")
+    st.markdown("[Github link](https://github.com/TechSavvyMind/SE)")
+    st.markdown("Created by NBKR CSE-C Batch C8")
 
 
 if "df" in st.session_state:
